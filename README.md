@@ -12,8 +12,8 @@
 ### Other Resources
 - [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
 - [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
-- [Dạy tiếng Việt | ĐÀI TIẾNG NÓI VIỆT NAM](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
-- [Tiếng Việt Thực Hành | Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
+- [Dạy tiếng Việt - ĐÀI TIẾNG NÓI VIỆT NAM](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
+- [Tiếng Việt Thực Hành - Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
 
 ### Course
 
