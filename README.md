@@ -109,7 +109,7 @@ _For those who want to read Light Novel or Web Novel in Vietnamese._
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily. 
 
-- [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary.
+- [**※ Yomitan Installation guide for Vietnamese Learning**](/learn-vietnamese/yomitan/) - Learn how to setup the best popup dictionary.
 
 - **[VNEDICT](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)** by Paul Denisowski converted by Marsh Nguyễn for Yomichan.
 - **[Từ Điển Tiếng Việt Thông Dụng](https://www.mediafire.com/file/ekopqoj0627tpkw/T%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_Vi%E1%BB%87t.zip/file)** Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from [https://github.com/vntk/dictionary/tree/master/data](https://github.com/vntk/dictionary/tree/master/data) contains 42012 entries.
