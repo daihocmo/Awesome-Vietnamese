@@ -76,18 +76,21 @@
 - [Duolingo Fandom - Vietnamese](https://duolingo.fandom.com/wiki/Vietnamese)
 
 ## Dictionary
+
 ### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily. 
 
 - [**※ Yomitan Installation guide for Vietnamese Learning**](/learn-vietnamese/yomitan/) - Learn how to setup the best popup dictionary.
 - **[VNEDICT](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)** by Paul Denisowski converted by Marsh Nguyễn for Yomichan.
 - **[Từ Điển Tiếng Việt Thông Dụng](https://www.mediafire.com/file/ekopqoj0627tpkw/T%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_Vi%E1%BB%87t.zip/file)** Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from [https://github.com/vntk/dictionary/tree/master/data](https://github.com/vntk/dictionary/tree/master/data) contains 42012 entries.
+
 ### Online
 - [**※ Vtudien VI-VI**](https://vtudien.com/viet-viet) - Recommended for intermediate learners, there are also examples.
 - [VNEDICT Online](http://www.denisowski.org/Vietnamese/Vietnamese.html)
 - [Youglish Vietnamese](https://youglish.com/vietnamese): Youghlish but for Vietnamese.
 - [Forvo](https://forvo.com/languages/vi/): Search for a word and hear it pronounced by a native speaker.
 - [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/) - A Vietnamese Dictionary made by VietnamesePod101.
+
 ### E-Reader Dictionaries
 - **[VNEDICT in stardict format](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)**
 
@@ -95,7 +98,7 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have. It is tricky to use at first. 
 - [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard.
     
-## Missca
+## Miscellaneous
 - [morevietnamese's resource list](https://morevietnamese.com/resource-list/)
 - [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
 - [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
